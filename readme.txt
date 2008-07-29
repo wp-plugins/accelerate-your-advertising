@@ -1,5 +1,5 @@
 === Plugin Name: What they want === 
-Stable tag:1.2
+Stable tag:1.4
 Contributors: Tomas.Zhu
 Plugin URI: http://moneydiy.cn/accelerate-your-advertising
 Author URI: http://moneydiy.cn/
