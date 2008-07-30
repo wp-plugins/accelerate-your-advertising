@@ -1,5 +1,5 @@
 === Plugin Name: accelerate your advertising === 
-Stable tag:1.4
+Stable tag:1.6
 Contributors: Tomas.Zhu
 Plugin URI: http://moneydiy.cn/accelerate-your-advertising
 Author URI: http://moneydiy.cn/
@@ -24,7 +24,7 @@ Your advertising only been shown after your content.
 
 == Installation ==
 
-1:Upload the plugin to the `/wp-content/plugins/` directory
+1:Upload the plugin to the '/wp-content/plugins/' directory
 
 2:active the plugin  'Accelerate your advertising' through the 'Plugins' menu in WordPress
 
@@ -36,19 +36,19 @@ It is very simple to let it working,what you need to do is:
 
 1:named  id of div in the textarea of plugin.  //for example:"myad1"
 
-2:copy your advertising code  in the textarea of plugin.// for example:<script>xxxxxxx¡­¡­</script>
+2:copy your advertising code  in the textarea of plugin.// for example:<script>xxxxxxx......</script>
 
-Then Just use these div  id in your widget,sidebar,index.php¡­¡­
+Then Just use these div  id in your widget,sidebar,index.php......
 
 for example:
 
 <div id ='myad1'>//Which you had named in plugin
 
-Loading¡­¡­
+Loading......
 
 </div >
 
-So Plugin willfind 'myad1¡å,and add advertising in it.
+So Plugin willfind 'myad1',and add advertising in it.
 
 Best,
 
