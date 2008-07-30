@@ -1,5 +1,5 @@
 === Plugin Name: accelerate your advertising === 
-Stable tag:1.6
+Stable tag:1.7
 Contributors: Tomas.Zhu
 Plugin URI: http://moneydiy.cn/accelerate-your-advertising
 Author URI: http://moneydiy.cn/
@@ -55,7 +55,7 @@ Best,
 Tomas.zhu
 
 plugin download:
-whattheywant-1-2.txt
+http://moneydiy.cn/accelerate-your-advertising
 
 == Screenshots == 
 http://moneydiy.cn/accelerate-your-advertising
