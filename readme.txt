@@ -1,4 +1,4 @@
-=== Plugin Name: What they want === 
+=== Plugin Name: accelerate your advertising === 
 Stable tag:1.4
 Contributors: Tomas.Zhu
 Plugin URI: http://moneydiy.cn/accelerate-your-advertising
