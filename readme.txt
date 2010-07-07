@@ -1,20 +1,18 @@
 === Plugin Name: accelerate your advertising === 
 Contributors: Tomas.Zhu
-Plugin URL: http://chinainvestor.net/accelerate-your-advertising
-Author URL: http://chinainvestor.net/
+Plugin URI: 
+http://chinainvestor.net/accelerate-your-advertising
+Author URI: 
+http://chinainvestor.net/
 Tags:content,keywords,slow,div,google,adsense,yahoo,posts,ajax,plugin,code,ad,advertising,accelerate,speed
 Requires at least: 2.2.3
 Tested up to: 3.0
-Stable tag:3.0.1
-
-
-Copyright (c) 2008
-Released under the GPL license
-http://www.gnu.org/licenses/gpl.txt
-
+Stable tag:3.0.2
 
 == Description ==
-faq,demo,idea,or suppert:http://chinainvestor.net/accelerate-your-advertising
+faq,demo,idea,or suppert:
+http://chinainvestor.net/accelerate-your-advertising
+
 Many webmaster wonder why their web site is so slowly? OK, the reason is slow advertising code from some AD union.
 Now,I write a wordpress plugin which can accelerate your advertising and speed your site.
 You can choose to make these slow advertising code be shown after the appearance of the content.
