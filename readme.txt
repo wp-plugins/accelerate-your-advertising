@@ -1,12 +1,11 @@
 === Plugin Name: accelerate your advertising === 
-Stable tag:3.0
 Contributors: Tomas.Zhu
-Plugin URI: http://chinainvestor.net/accelerate-your-advertising
-Author URI: http://chinainvestor.net/
+Plugin URL: http://chinainvestor.net/accelerate-your-advertising
+Author URL: http://chinainvestor.net/
 Tags:content,keywords,slow,div,google,adsense,yahoo,posts,ajax,plugin,code,ad,advertising,accelerate,speed
 Requires at least: 2.2.3
 Tested up to: 3.0
-
+Stable tag:3.0
 
 
 Copyright (c) 2008
